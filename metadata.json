@@ -1,0 +1,8 @@
+{
+  "name": "Clinical Trial Chatbot_Meta_new",
+  "description": "A smart chatbot that searches ClinicalTrials.gov and summarizes findings using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
