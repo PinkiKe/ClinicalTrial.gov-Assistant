@@ -1,1 +1,0 @@
-# ClinicalTrial.gov-Assistant
